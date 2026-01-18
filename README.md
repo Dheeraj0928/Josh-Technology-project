@@ -42,7 +42,8 @@ Josh Technology project/
 
 <img width="1900" height="860" alt="image" src="https://github.com/user-attachments/assets/7716e20a-0ecd-4873-850d-11cd6e811cf7" />
 <img width="1883" height="836" alt="image" src="https://github.com/user-attachments/assets/722b98ba-8a7d-40ab-9060-577f8ad1779f" />
-<img width="1883" height="836" alt="image" src="https://github.com/user-attachments/assets/2b8e1452-0b6d-4346-99f6-1e52423fb0cc" />
+<img width="1907" height="848" alt="image" src="https://github.com/user-attachments/assets/181618aa-6daf-44ad-9dda-a87f33e2927c" />
+
 
 👨‍💻 Author
 
